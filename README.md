@@ -185,6 +185,7 @@ components: { EasyPlayer }
 | play       | 播放         | 当前时间进度          |
 
 
+
 ## 更多流媒体音视频资源
 
 EasyDarwin开源流媒体服务器：<a href="http://www.easydarwin.org" target="_blank" title="EasyDarwin开源流媒体服务器">www.EasyDarwin.org</a>
@@ -203,7 +204,7 @@ EasyRTS应急指挥平台：<a href="http://www.easyrts.com" target="_blank" tit
 
 TSINGSEE青犀开放平台：<a href="http://open.tsingsee.com" target="_blank" title="TSINGSEE青犀开放平台">open.TSINGSEE.com</a>
 
-Copyright © <a href="http://www.tsingsee.com" target="_blank" title="青犀TSINGSEE">www.TSINGSEE.com</a> Team 2012-2019
+Copyright © <a href="http://www.tsingsee.com" target="_blank" title="青犀TSINGSEE">www.TSINGSEE.com</a> Team 2012-2021
 
 ![青犀TSINGSEE](http://www.easydarwin.org/public/images/tsingsee_qrcode_160.jpg)
 
