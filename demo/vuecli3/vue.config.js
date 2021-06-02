@@ -1,5 +1,6 @@
 module.exports = {
-	devServer: {
-		proxy: "http://127.0.0.1:10800"
-	}
+	lintOnSave: false
+	// devServer: {
+	// 	proxy: "http://127.0.0.1:10800"
+	// }
 }
